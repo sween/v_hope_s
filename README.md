@@ -1,109 +1,38 @@
-# "Pintereso" - Jekyll Template by WowThemes.net
+# Adam Blog is a minimal clear theme for Jekyll
 
-[Live Demo](https://wowthemesnet.github.io/template-pintereso-bootstrap-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip)
+![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
-![Free Jekyll Theme Pintereso](assets/images/screenshot.jpg)
+## Demo
 
-### Features
+Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 
-- Theme Built for Jekyll
-- 100% Compatible with Github pages
-- SEO
-- Search
-- Index Pagination
-- Post Share/Pin Save
-- Post Categories
-- Prev/Next Link
-- Categories
-- Feed
-- Sitemap
-- Cookie Consent & Privacy Policy
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Formspree.io Contact
-    - AddThis Integration
-    - Pinterest
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome v5.x
-- Layouts:
-    - Default
-    - Post
-    - Page
-    
-### How to Use
+The main page would look like this:
 
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/). Now if you know how to use Jekyll, let's move on to using Affiliates template in Jekyll:
+![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
 
-#### Plugins: 
-    - jekyll-feed
-    - jekyll-sitemap
-    - jekyll-paginate
-    - jekyll-seo-tag
+The post page would look like this:
 
-#### Customize
+![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
 
-Download or Fork *Pintereso for Jekyll*. 
+## Features
 
-- In your local project, open <code>_config.yml</code>. Set your <code>baseurl</code>, <code>name</code>, <code>email</code> etc:
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
-        name: 'Pintereso'
-        description: 'Jekyll Template for Bloggers & Photographers'
-        logo: 'assets/images/logo.png'
-        favicon: 'assets/images/logo.png'
-        baseurl: '/template-pintereso-bootstrap-jekyll'
-        avatar: 'assets/images/sal.jpg'
-        disqus: 'demowebsite'
-        email: 'wowthemesnet@gmail.com'
-        
-- Navigate to <code>includes</code> folder. From there you can edit/add:
+## Installation:
 
-    - footer copyright - <code>footer-copyright.html</code>
-    - footer social menu - <code>footer-social.html</code>
-    - menu header - <code>menu-header.html</code>
-    - google analytics script - <code>tracking-header.html</code>
-    - addthis script - <code>tracking-footer.html</code>
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-- Start blogging! Add your .md posts in <code>_posts</code>. If you download the template you will notice it already has a few as an example. 
+## License
 
-YAML Post Example
+GNU General Public License v3.0
 
-        ---
-        title:  "Affiliates Jekyll Theme"
-        metadate: "hide"
-        categories: [ Free, Jekyll, Themes ]
-        image: "assets/images/affiliates.jpg"
-        visit: "https://www.wowthemes.net/free-jekyll-template-affiliates/"
-        ---
-     
-- Adding pages. Place your .md pages in <code>_pages</code>. Don't forget to set the permalink, see below.
-    
-YAML Page Example:
+## Donate
 
-        ---
-        title: "About"
-        permalink: "/about.html"
-        image: "/assets/images/screenshot.jpg"
-        ---
-
-
-### Copyright
-
-Copyright (C) 2018 WowThemes.net.
-
-**Pintereso for Jekyll** is designed by [Sal](https://www.wowthemes.net) and it is licensed MIT. If you want to thank Sal:
-
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
------------------
-
-## Contribute
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
-- Open a pull request on GitHub and describe the feature or fix. 
-
-Thank you!
-
-[Sal](https://www.wowthemes.net)
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
