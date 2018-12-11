@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ----
 # Site
 
@@ -88,3 +89,6 @@ _options:
   author_image:
     width: 400
     height: 400
+=======
+theme: jekyll-theme-time-machine
+>>>>>>> 34ecc90ea86709bdd4fb94be5841251abfd5521c
