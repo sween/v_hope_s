@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# ----
+
+
 # Site
 
 title: Treat Template
@@ -13,7 +13,7 @@ disqus_shortname:
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
-  name:
+  name: Vanessa Spilios
   email:
   twitter: # twitter username without the @ symbol
 social:
@@ -89,6 +89,5 @@ _options:
   author_image:
     width: 400
     height: 400
-=======
-theme: jekyll-theme-time-machine
->>>>>>> 34ecc90ea86709bdd4fb94be5841251abfd5521c
+
+
