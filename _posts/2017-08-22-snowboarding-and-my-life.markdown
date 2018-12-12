@@ -4,7 +4,7 @@ title:  Recipe Development
 date:   2017-08-22 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: MAC14_COOKBOOK_STORE_POST01.jpg # Add image post (optional)
-tags: [Stream, Cooking]
+# tags: [Stream, Cooking]
 author: # Add name author (optional)
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
