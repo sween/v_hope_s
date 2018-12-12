@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Twitch Stream
+title:  Recipe Development
 date:   2017-08-22 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: giphy.gif # Add image post (optional)
+img: MAC14_COOKBOOK_STORE_POST01.jpg # Add image post (optional)
 tags: [Stream, Cooking]
 author: # Add name author (optional)
 ---
